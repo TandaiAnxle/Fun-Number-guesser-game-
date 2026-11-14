@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1794674592 source:c:\users\bertu\desktop\cs50 projects\week 1\main.c
+	<stdio.h>
+	"cs50.h"
+	<stdlib.h>
+
+1789166567 c:\users\bertu\desktop\cs50 projects\week 1\cs50.h
+	<float.h>
+	<limits.h>
+	<stdarg.h>
+	<stdbool.h>
+	<stddef.h>
+
